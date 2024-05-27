@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for webs	</title>
-	<atom:link href="https://luthfiwebs.github.io/abc/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://luthfiwebs.github.io/abc</link>
+	<atom:link href="https://luthfiwebs.github.io/webku/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://luthfiwebs.github.io/webku</link>
 	<description></description>
 	<lastBuildDate>Thu, 23 May 2024 10:39:37 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>https://luthfiwebs.github.io/abc/hello-world/#comment-1</link>
+		<link>https://luthfiwebs.github.io/webku/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 23 May 2024 10:39:37 +0000</pubDate>
-		<guid isPermaLink="false">https://luthfiwebs.github.io/abc/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://luthfiwebs.github.io/webku/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
